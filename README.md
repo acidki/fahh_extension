@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🗣️ fahh
+# 🗣️ FAHH by Acid 🔥
 **Because your terminal deserves to be disappointed in you.**
 
-[Image of a person sighing in frustration or 'fahh' expression]
-<img src="fahh.jpg" alt="fahh face" width="300"/>
+
+<img src="fah.jpg" alt="fahh face" width="300"/>
 
 <p>
-  <i>Created with ❤️ (and a little judgment) by <b>acidki</b></i>
+  <i>Created with 🤍 (and a little judgment) by <b>acidki</b></i>
 </p>
 
 ---
