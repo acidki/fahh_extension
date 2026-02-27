@@ -1,3 +1,11 @@
+</div>
+
+<p align="center">
+<i>Created by <b>acidki</b></i>
+</p>
+
+</div>
+
 # fahh README
 
 This is the README for your extension "fahh". After writing up a brief description, we recommend including the following sections.
